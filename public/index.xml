@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rémi Champlon</title>
+    <link>https://remi-champlon.fr/</link>
+    <description>Recent content on Rémi Champlon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://remi-champlon.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://remi-champlon.fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remi-champlon.fr/about/</guid>
+      <description>EN Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt faucibus eleifend. In facilisis, neque ac volutpat sagittis, nulla leo bibendum nibh, nec rutrum dui risus vitae leo. Donec et massa ex. Sed luctus porta sapien, nec finibus justo fermentum eget. Suspendisse semper ut risus in vestibulum. Phasellus sed fringilla eros, et hendrerit massa. Ut et egestas risus. Duis ornare eros neque, dapibus vulputate eros facilisis eu. Sed mattis vestibulum aliquet.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://remi-champlon.fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remi-champlon.fr/contact/</guid>
+      <description> Mail : contact@remi-champlon.fr Tel : +33 3 72 39 58 47  </description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://remi-champlon.fr/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remi-champlon.fr/portfolio/</guid>
+      <description>Websites MOSI Consulting : Basic Wordpress and Divi website. Majord&amp;rsquo;home : Basic Wordpress and Divi website. Rémi Champlon : Hugo website, host with github and deploy thanks to netlify.  Projects Random mini-projects : A bunch of small projects. Github : More serious projects.  </description>
+    </item>
+    
+  </channel>
+</rss>
