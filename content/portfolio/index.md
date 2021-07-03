@@ -13,5 +13,4 @@ keywords = "portfolio,remi champlon,developer,full-stack,web,kazimir,metz"
 
 ## Projects
 
-- **[Random mini-projects](http://project.remi-champlon.fr/) :** A bunch of small projects.
-- **[Github](https://github.com/Kazimir42) :** More serious projects.
+- **[Github](https://github.com/Kazimir42) :** A bunch of projects more or less serious.

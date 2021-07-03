@@ -12,24 +12,24 @@ a:hover, a:focus{
 	color: chocolate !important;
 }
 body{
-	background-image: url("../images/mt-sample-background.jpg");
+	background-image: url("../images/remi-champlon-bakcground-light.jpg");
 }
 body.colorscheme-dark{
-	background-image: url("../images/mt-sample-background - Copie.jpg");
+	background-image: url("../images/remi-champlon-bakcground-dark.jpg");
 }
-.colorscheme-light > .wrapper > .content > section > article > ul > li > a{
+.colorscheme-light > .wrapper > .content > section > article > ul > li > a, .colorscheme-light > .wrapper > .content > section > article > p > strong > a{
 	color: black !important;
 }
-.colorscheme-light > .wrapper > .content > section > article > ul > li > a:hover, .colorscheme-dark > .wrapper > .content > section > article > ul > li > a:hover{
+.colorscheme-light > .wrapper > .content > section > article > ul > li > a:hover, .colorscheme-dark > .wrapper > .content > section > article > ul > li > a:hover, .colorscheme-dark > .wrapper > .content > section > article > p > strong > a:hover, .colorscheme-light > .wrapper > .content > section > article > p > strong > a:hover{
 	color: chocolate !important;
 }
-.colorscheme-dark > .wrapper > .content > section > article > ul > li > a{
+.colorscheme-dark > .wrapper > .content > section > article > ul > li > a, .colorscheme-dark > .wrapper > .content > section > article > p > strong > a{
 	color: #dadada !important;
 }
 body.colorscheme-dark h1 .heading-link, body.colorscheme-dark h2 .heading-link, body.colorscheme-dark h3 .heading-link, body.colorscheme-dark h4 .heading-link, body.colorscheme-dark h5 .heading-link, body.colorscheme-dark h6 .heading-link{
 	color: chocolate !important;
 }
-body, .navigation a, .navigation span, .centered .about ul li a{
+body, .navigation a, .navigation span, .centered .about ul li a, {
 	color: black;
 }
 .colorscheme-dark > .wrapper > .content > section > article > ul > li > strong > a{
