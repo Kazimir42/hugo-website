@@ -15,7 +15,7 @@ body{
 	background-image: url("../images/mt-sample-background.jpg");
 }
 body.colorscheme-dark{
-	background-image: url("../images/mt-sample-background-1-2.jpg");
+	background-image: url("../images/mt-sample-background - Copie.jpg");
 }
 .colorscheme-light > .wrapper > .content > section > article > ul > li > a{
 	color: black !important;
@@ -42,4 +42,7 @@ body, .navigation a, .navigation span, .centered .about ul li a{
 	body.colorscheme-dark .navigation .navigation-list {
 		background-color: #111;
 	}
+}
+.error > p > a{
+	color: chocolate !important;
 }

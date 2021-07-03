@@ -43,3 +43,6 @@ body, .navigation a, .navigation span, .centered .about ul li a{
 		background-color: #111;
 	}
 }
+.error > p > a{
+	color: chocolate !important;
+}
