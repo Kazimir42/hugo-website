@@ -13,9 +13,13 @@ a:hover, a:focus{
 }
 body{
 	background-image: url("../images/remi-champlon-bakcground-light.jpg");
+	background: no-repeat;
+	background-size: 100%;
 }
 body.colorscheme-dark{
 	background-image: url("../images/remi-champlon-bakcground-dark.jpg");
+	background: no-repeat;
+	background-size: 100%;
 }
 .colorscheme-light > .wrapper > .content > section > article > ul > li > a, .colorscheme-light > .wrapper > .content > section > article > p > strong > a{
 	color: black !important;
