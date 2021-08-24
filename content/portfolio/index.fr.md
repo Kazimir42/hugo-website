@@ -15,3 +15,4 @@ keywords = "portfolio,remi champlon,développeur,full-stack,web,kazimir,metz"
 
 - **[Github](https://github.com/Kazimir42) :** Un tas de projets plus ou moins sérieux.
 - **[Limousine](https://limousine.remi-champlon.fr) :** Site de gestion de patrimoine fait avec Symfony.
+- **[Paste](https://paste.remi-champlon.fr/) :** Petit outil de collage pour stocker du texte, construit avec Laravel.
