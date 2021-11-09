@@ -16,3 +16,4 @@ keywords = "portfolio,remi champlon,developer,full-stack,web,kazimir,metz"
 - **[Github](https://github.com/Kazimir42) :** A bunch of projects more or less serious.
 - **[Limousine](https://limousine.remi-champlon.fr/) :** Wealth management website, built with Symfony.
 - **[Paste](https://paste.remi-champlon.fr/) :** Little paste tool to store text, built with Laravel.
+- **[Where can i buy my crypto](https://infallible-feynman-35c764.netlify.app/) :** Everything is in the title, first app in React (API: CoinGecko)
