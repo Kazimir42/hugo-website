@@ -9,7 +9,8 @@ keywords = "portfolio,remi champlon,développeur,full-stack,web,kazimir,metz"
 - **[MOSI Consulting](https://mosiconsulting.com/) :** Site web avec Wordpress et Divi.
 - **[Majord'home](https://majord-home.fr/) :** Site web avec Wordpress et Divi.
 - **[Rémi Champlon](https://remi-champlon.fr/) :** Site Web Hugo, hébergé avec github et déployé grâce à netlify.
-- **[App SimpleTo](https://app.simpleto.fr/) :** Application web de formation vidéos fait avec Laravel (APIs : Vimeo / Stripe)
+- **[App SimpleTo](https://app.simpleto.fr/) :** Application web de formation vidéos fait avec Laravel (APIs : Vimeo / Stripe).
+- **[Botcup](https://www.botcup.fr/) :**  Site web avec Wordpress et Divi.
 
 
 ## Projets
