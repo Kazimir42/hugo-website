@@ -21,3 +21,4 @@ keywords = "portfolio,remi champlon,developer,full-stack,web,kazimir,metz"
 - **[Where can i buy my crypto](https://infallible-feynman-35c764.netlify.app/) :** Everything is in the title, first app in React (API: CoinGecko).
 - **[Domain-watch](https://domain-watch.remi-champlon.fr/) :** Domain name tracking web app, made with Laravel (Script: Python3).
 - **[Kazi dApp NFT](https://spiffy-seahorse-313435.netlify.app/) :** dApp to mint jpeg NFT (Serverless, React, firebase, Metamask API). **CONTRACT NOT DEPLOYED**
+- **[kazi/place](https://place.remi-champlon.fr/) :** Homemade version of r/place (node.js mongoDB, React).
