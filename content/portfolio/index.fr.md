@@ -15,7 +15,7 @@ keywords = "portfolio,remi champlon,développeur,full-stack,web,kazimir,metz"
 
 ## Projets
 
-- **Github :** Un tas de projets plus ou moins sérieux.
+- **[Github](https://github.com/Kazimir42) :** Un tas de projets plus ou moins sérieux.
 - **Limousine :** Site de gestion de patrimoine fait avec Symfony.
 - **Paste :** Petit outil de collage pour stocker du texte, construit avec Laravel.
 - **Where can i buy my crypto :** Tout est dans le titre, première app en React (API : CoinGecko).
